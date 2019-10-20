@@ -17,13 +17,7 @@ For this timetable:
 ![alt text](https://raw.githubusercontent.com/danielkovacsdeak/extract-data-from-calendar/master/oneWeek.png)
 
 We get the following output in hours.txt file:
-7. Monday: 17:00-23:00
-8. Tuesday: 14:00-23:15
-9. Wednesday: 18:00-1:00
-10. Thursday: 18:00-23:00
-12. Saturday: 18:00-1:30
-13. Sunday: 15:00-22:15
-________________________ 42.0 hours in total.
+![alt text](https://raw.githubusercontent.com/danielkovacsdeak/extract-data-from-calendar/master/output.png)
 
 Output: hours.txt
 
