@@ -12,7 +12,7 @@ As some work late at night the last days work can be finished at the following d
 
 At the end the program counts the total time of work in hours.
 
-![alt text][https://github.com/danielkovacsdeak/extract-data-from-calendar/blob/master/oneWeek.png]
+![alt text][https://raw.githubusercontent.com/danielkovacsdeak/extract-data-from-calendar/master/oneWeek.png]
 
 Output: hours.txt
 
