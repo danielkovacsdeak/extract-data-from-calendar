@@ -12,7 +12,7 @@ As some work late at night the last days work can be finished at the following d
 
 At the end the program counts the total time of work in hours.
 
-
+![alt text][oneWeek.png]
 
 Output: hours.txt
 
